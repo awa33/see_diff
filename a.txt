@@ -1,0 +1,2 @@
+Tracking chrckimg
+Did not add the file and seeing if GIT tracks or not
