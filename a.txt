@@ -1,2 +1,3 @@
 Tracking chrckimg
 Did not add the file and seeing if GIT tracks or not
+Now, addes the file and after that editing to see if it says modified or not
